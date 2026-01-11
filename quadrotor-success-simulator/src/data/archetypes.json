@@ -1,0 +1,6 @@
+{
+  "AnimaAnima": { "description": "Metaware / Noos / Ludens", "traits": ["collective", "playful"] },
+  "AnimaAnimus": { "description": "Ego / Subject / Proto", "traits": ["social", "direct"] },
+  "AnimusAnima": { "description": "Instinct / Ego / Proto", "traits": ["driven", "action"] },
+  "AnimusAnimus": { "description": "Aware / Subject / Sapiens", "traits": ["reflective", "strategic"] }
+}
